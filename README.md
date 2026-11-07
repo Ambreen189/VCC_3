@@ -40,10 +40,13 @@ Helps users discover nearby recycling locations and make responsible waste-dispo
 ### 4. Environmental Challenges
 Encourages users to participate in eco-friendly activities and develop sustainable daily habits.
 
-### 5. Sustainability Dashboard
+### 5. Personalized Eco-Friendly Recommendations
+Provides personalized suggestions to help users adopt greener habits, make sustainable choices, and reduce their environmental impact.
+
+### 6. Sustainability Dashboard
 Provides interactive dashboards to help users monitor their environmental progress and sustainability achievements.
 
-### 6. Community Leaderboards
+### 7. Community Leaderboards
 Promotes friendly competition and community engagement by recognizing users who actively participate in sustainable activities.
 
 ## 👥 Target Audience
